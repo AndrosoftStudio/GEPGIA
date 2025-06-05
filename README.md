@@ -4,6 +4,7 @@
 
 **Versão Atual:** 1.6.3
 **Desenvolvido por:** André Jorge
+**Repositório GitHub:** [AndrosoftStudio/GEPGIA](https://github.com/AndrosoftStudio/GEPGIA)
 
 ---
 
@@ -77,46 +78,66 @@ O GEPGIA foi projetado para ser uma ferramenta central na gestão escolar, ofere
 * **Linguagem Principal:** Python
 * **Interface Gráfica (GUI):** (Especifique aqui a biblioteca GUI utilizada, ex: Tkinter, PyQt, Kivy, CustomTkinter)
 * **Banco de Dados:** (Especifique aqui o banco de dados, se houver, ex: SQLite, PostgreSQL)
+* **Empacotamento:** (Especifique a ferramenta usada para criar o executável, ex: PyInstaller, cx_Freeze)
 * **Desenvolvimento Assistido por IA:** Ferramentas de Inteligência Artificial foram utilizadas para auxiliar no processo de desenvolvimento.
 
 ---
 
 ## 🚀 Como Começar
 
-Para executar o GEPGIA em seu ambiente local, siga os passos abaixo:
+Como o GEPGIA é distribuído como um executável, não há necessidade de instalação de dependências ou configuração de ambiente Python.
 
-**Pré-requisitos:**
-* Python 3.x instalado
-* pip (gerenciador de pacotes Python)
+**Para utilizar:**
 
-**Instalação:**
+1.  **Baixe o Executável:**
+    * Acesse a seção de [**Releases**](https://github.com/AndrosoftStudio/GEPGIA/releases) no repositório do GitHub.
+    * Faça o download da versão mais recente do executável compatível com o seu sistema operacional.
 
-1.  Clone o repositório (ou baixe os arquivos do projeto):
-    ```bash
-    git clone [https://github.com/seu-usuario/gepgia.git](https://github.com/seu-usuario/gepgia.git) # Substitua pelo link do seu repositório
-    cd gepgia
-    ```
+2.  **Execute a Aplicação:**
+    * Após o download, localize o arquivo executável (ex: `GEPGIA.exe` no Windows).
+    * Dê um duplo clique no arquivo para iniciar o Sistema de Gestão Escolar GEPGIA.
 
-2.  Crie um ambiente virtual (recomendado):
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # No Windows: venv\Scripts\activate
-    ```
+**Observação:** Dependendo do seu sistema operacional e configurações de segurança, você pode precisar conceder permissões para executar o arquivo baixado.
 
-3.  Instale as dependências:
-    (Crie um arquivo `requirements.txt` com as bibliotecas necessárias e adicione o comando abaixo)
-    ```bash
-    pip install -r requirements.txt
-    ```
-    *Exemplo de `requirements.txt` (adapte conforme seu projeto):*
-    ```
-    # customtkinter  # Exemplo, se você usou CustomTkinter
-    # Pillow         # Exemplo, se manipulou imagens para a UI
-    # ...outras dependências
-    ```
+---
 
-**Executando a Aplicação:**
+## 🗺️ Roadmap (Sugestões)
 
-Execute o arquivo principal da aplicação (geralmente `main.py` ou `app.py`):
-```bash
-python nome_do_seu_arquivo_principal.py
+* [ ] Módulo de Notas e Avaliações
+* [ ] Geração de Relatórios (desempenho de alunos, frequência, etc.)
+* [ ] Calendário de Eventos Escolares
+* [ ] Sistema de Notificações
+* [ ] Melhorias na performance e usabilidade com base no feedback dos usuários.
+
+---
+
+## 🤝 Contribuição
+
+Se você deseja contribuir com o código-fonte:
+
+1.  Faça um Fork do projeto em [https://github.com/AndrosoftStudio/GEPGIA](https://github.com/AndrosoftStudio/GEPGIA)
+2.  Crie sua Feature Branch (`git checkout -b feature/NovaFuncionalidadeIncrivel`)
+3.  Commit suas mudanças (`git commit -m 'Adiciona NovaFuncionalidadeIncrivel'`)
+4.  Push para a Branch (`git push origin feature/NovaFuncionalidadeIncrivel`)
+5.  Abra um Pull Request
+
+Qualquer contribuição que você fizer será **muito apreciada**!
+
+---
+
+## 📄 Licença
+
+Distribuído sob a Licença MIT. Veja o arquivo `LICENSE` no repositório para mais informações.
+*(Certifique-se de que o arquivo LICENSE existe no seu repositório).*
+
+---
+
+## 📞 Contato
+
+André Jorge - [*Seu Email ou Link para Perfil Profissional*]
+
+Link do Projeto: [https://github.com/AndrosoftStudio/GEPGIA](https://github.com/AndrosoftStudio/GEPGIA)
+
+---
+
+Agradecemos por usar e se interessar pelo GEPGIA!
