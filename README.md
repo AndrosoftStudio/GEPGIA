@@ -76,16 +76,16 @@ O GEPGIA foi projetado para ser uma ferramenta central na gestão escolar, ofere
 ## 🛠️ Tecnologias Utilizadas
 
 * **Linguagem Principal:** Python
-* **Interface Gráfica (GUI):** (Especifique aqui a biblioteca GUI utilizada, ex: Tkinter, PyQt, Kivy, CustomTkinter)
-* **Banco de Dados:** (Especifique aqui o banco de dados, se houver, ex: SQLite, PostgreSQL)
-* **Empacotamento:** (Especifique a ferramenta usada para criar o executável, ex: PyInstaller, cx_Freeze)
+* **Interface Gráfica (GUI):** [A ser preenchido pelo desenvolvedor, ex: Tkinter, PyQt, CustomTkinter]
+* **Banco de Dados:** [A ser preenchido pelo desenvolvedor, se aplicável, ex: SQLite]
+* **Empacotamento:** [A ser preenchido pelo desenvolvedor, ex: PyInstaller, cx_Freeze]
 * **Desenvolvimento Assistido por IA:** Ferramentas de Inteligência Artificial foram utilizadas para auxiliar no processo de desenvolvimento.
 
 ---
 
 ## 🚀 Como Começar
 
-Como o GEPGIA é distribuído como um executável, não há necessidade de instalação de dependências ou configuração de ambiente Python.
+Como o GEPGIA é distribuído como um executável, não há necessidade de instalação de dependências ou configuração de ambiente Python para utilizá-lo.
 
 **Para utilizar:**
 
