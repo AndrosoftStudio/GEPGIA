@@ -44,6 +44,7 @@ O GEPGIA foi projetado para ser uma ferramenta central na gestão escolar, ofere
 **1. Tela de Boas-vindas e Login:**
 *Bem-vindo ao Sistema Escolar. Faça login ou registre-se para continuar.*
 
+
 **2. Gerenciamento de Turmas:**
 *Crie novas turmas, visualize existentes, associe matérias e alunos.*
 
@@ -61,6 +62,7 @@ O GEPGIA foi projetado para ser uma ferramenta central na gestão escolar, ofere
 
 **7. Sobre o Sistema Escolar:**
 *Informações sobre a versão da aplicação e o desenvolvedor.*
+![Sobre o Sistema Escolar](1.png)
 
 </details>
 
