@@ -43,31 +43,24 @@ O GEPGIA foi projetado para ser uma ferramenta central na gestão escolar, ofere
 
 **1. Tela de Boas-vindas e Login:**
 *Bem-vindo ao Sistema Escolar. Faça login ou registre-se para continuar.*
-*(Corresponde a image_253f3c.png)*
 
 **2. Gerenciamento de Turmas:**
 *Crie novas turmas, visualize existentes, associe matérias e alunos.*
-*(Corresponde a image_253c2e.png)*
 
 **3. Gerenciamento de Matérias:**
 *Adicione novas matérias com nome e descrição. Visualize e gerencie as matérias existentes.*
-*(Corresponde a image_253c11.png)*
 
 **4. Gerenciamento de Alunos:**
 *Convide alunos para turmas e veja a lista de alunos registrados.*
-*(Corresponde a image_253bf6.png)*
 
 **5. Gerenciamento de Atividades:**
 *Crie, edite e acompanhe as atividades educacionais.*
-*(Corresponde a image_253bef.png)*
 
 **6. Configurações de Idioma:**
 *Selecione o idioma de preferência para a interface do sistema.*
-*(Corresponde a image_253bb3.png)*
 
 **7. Sobre o Sistema Escolar:**
 *Informações sobre a versão da aplicação e o desenvolvedor.*
-*(Corresponde a image_253f76.png)*
 
 </details>
 
@@ -76,9 +69,9 @@ O GEPGIA foi projetado para ser uma ferramenta central na gestão escolar, ofere
 ## 🛠️ Tecnologias Utilizadas
 
 * **Linguagem Principal:** Python
-* **Interface Gráfica (GUI):** [A ser preenchido pelo desenvolvedor, ex: Tkinter, PyQt, CustomTkinter]
-* **Banco de Dados:** [A ser preenchido pelo desenvolvedor, se aplicável, ex: SQLite]
-* **Empacotamento:** [A ser preenchido pelo desenvolvedor, ex: PyInstaller, cx_Freeze]
+* **Interface Gráfica (GUI):**
+* **Banco de Dados:**
+* **Empacotamento:**
 * **Desenvolvimento Assistido por IA:** Ferramentas de Inteligência Artificial foram utilizadas para auxiliar no processo de desenvolvimento.
 
 ---
@@ -134,7 +127,7 @@ Distribuído sob a Licença MIT. Veja o arquivo `LICENSE` no repositório para m
 
 ## 📞 Contato
 
-André Jorge - [*Seu Email ou Link para Perfil Profissional*]
+André Jorge
 
 Link do Projeto: [https://github.com/AndrosoftStudio/GEPGIA](https://github.com/AndrosoftStudio/GEPGIA)
 
