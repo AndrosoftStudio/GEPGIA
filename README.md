@@ -43,22 +43,27 @@ O GEPGIA foi projetado para ser uma ferramenta central na gestão escolar, ofere
 
 **1. Tela de Boas-vindas e Login:**
 *Bem-vindo ao Sistema Escolar. Faça login ou registre-se para continuar.*
-
+![Tela de Boas-vindas e Login](3.png)
 
 **2. Gerenciamento de Turmas:**
 *Crie novas turmas, visualize existentes, associe matérias e alunos.*
+![Gerenciamento de Turmas](4.png)
 
 **3. Gerenciamento de Matérias:**
 *Adicione novas matérias com nome e descrição. Visualize e gerencie as matérias existentes.*
+![Gerenciamento de Matérias](5.png)
 
 **4. Gerenciamento de Alunos:**
 *Convide alunos para turmas e veja a lista de alunos registrados.*
+![Gerenciamento de Alunos](6.png)
 
 **5. Gerenciamento de Atividades:**
 *Crie, edite e acompanhe as atividades educacionais.*
+![Gerenciamento de Atividades](7.png)
 
 **6. Configurações de Idioma:**
 *Selecione o idioma de preferência para a interface do sistema.*
+![Configurações de Idioma](8.png)
 
 **7. Sobre o Sistema Escolar:**
 *Informações sobre a versão da aplicação e o desenvolvedor.*
